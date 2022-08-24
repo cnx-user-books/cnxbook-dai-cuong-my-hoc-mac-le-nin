@@ -1,3 +1,15 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col10868</md:content-id>  <md:title>Đại cương Mỹ học - Mác Lê Nin</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>vi</md:language>              <md:uuid>2468b7d5-aabe-4e6d-b9ab-39920aa37853</md:uuid>
-<md:slug>dai-cuong-my-hoc-mac-le-nin</md:slug>
-</metadata>  <col:content>          <col:module document="m30144"/>                            <col:module document="m30131"/>                    </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course" authors="ThS. Nguy&#x1EC5;n Thanh S&#x1A1;n">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10868</md:content-id>
+    <md:title>&#x110;&#x1EA1;i c&#x1B0;&#x1A1;ng M&#x1EF9; h&#x1ECD;c - M&#xE1;c L&#xEA; Nin</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>vi</md:language>
+    <md:uuid>2468b7d5-aabe-4e6d-b9ab-39920aa37853</md:uuid>
+    <md:slug>dai-cuong-my-hoc-mac-le-nin</md:slug>
+  </metadata>
+  <col:content>
+    <col:module document="m30144"/>
+    <col:module document="m30131"/>
+  </col:content>
+</col:collection>
